@@ -1,0 +1,4 @@
+"scripts": {
+"start": "pip install -r requirements",
+"build": "python3 main.py"
+}
